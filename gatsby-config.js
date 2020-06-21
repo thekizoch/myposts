@@ -20,7 +20,7 @@ module.exports = {
     title: "Michael Koch's Posts with Kartik",
     description:
       'Tutorials on AWS resources for you to learn the ropes',
-    siteUrl: 'https://dev-myposts.netlify.app/',
+    siteUrl: 'https://dev-myposts.netlify.app',
     image: '/images/share.jpg',
     menuLinks: [
       {
