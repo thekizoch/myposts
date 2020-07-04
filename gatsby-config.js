@@ -20,7 +20,7 @@ module.exports = {
     title: "Michael Koch's Technical Posts",
     description:
       'Tutorials on AWS resources for you to learn the ropes',
-    siteUrl: 'www.michaelkoch.site',
+    siteUrl: 'https://www.michaelkoch.site',
     image: '/images/share.jpg',
     menuLinks: [
       {
