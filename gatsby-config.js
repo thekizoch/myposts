@@ -17,10 +17,10 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: "Michael Koch's Posts with Kartik",
+    title: "Michael Koch's Technical Posts",
     description:
       'Tutorials on AWS resources for you to learn the ropes',
-    siteUrl: 'https://dev-myposts.netlify.app',
+    siteUrl: 'www.michaelkoch.site',
     image: '/images/share.jpg',
     menuLinks: [
       {
